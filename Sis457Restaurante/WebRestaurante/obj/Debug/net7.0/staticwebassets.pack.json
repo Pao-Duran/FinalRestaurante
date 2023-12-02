@@ -1,0 +1,1269 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebRestaurante.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebRestaurante.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\images web\\klipartz.com.png",
+      "PackagePath": "staticwebassets\\assets\\images web\\klipartz.com.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\chefs\\chefs-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-1.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\chefs\\chefs-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-2.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\chefs\\chefs-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-3.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\event-birthday.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event-birthday.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\event-custom.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event-custom.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\event-private.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event-private.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\events-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\events-bg.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\menu\\bread-barrel.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\bread-barrel.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\menu\\caesar.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\caesar.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\menu\\cake.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\cake.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\menu\\greek-salad.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\greek-salad.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\menu\\lobster-bisque.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\lobster-bisque.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\menu\\lobster-roll.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\lobster-roll.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\menu\\mozzarella.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\mozzarella.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\menu\\spinach-salad.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\spinach-salad.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\menu\\tuscan-grilled.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\tuscan-grilled.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\specials-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-1.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\specials-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-2.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\specials-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-3.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\specials-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-4.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\specials-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-5.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap-icons\\index.html",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\index.html"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\forms\\Readme.txt"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\forms\\book-a-table.php",
+      "PackagePath": "staticwebassets\\forms\\book-a-table.php"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\forms\\contact.php"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\hero.png",
+      "PackagePath": "staticwebassets\\img\\hero.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-4.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-5.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-6.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-7.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-8.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\img\\video.jpg"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebRestaurante.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebRestaurante.props",
+      "PackagePath": "build\\WebRestaurante.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebRestaurante.props",
+      "PackagePath": "buildMultiTargeting\\WebRestaurante.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebRestaurante.props",
+      "PackagePath": "buildTransitive\\WebRestaurante.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
