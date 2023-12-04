@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sis 457 Informatica\\proyecto restaurant final\\FinalRestaurante\\Sis457Restaurante\\WebRestaurante\\WebRestaurante.csproj": {}
+    "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\WebRestaurante.csproj": {}
   },
   "projects": {
-    "C:\\Sis 457 Informatica\\proyecto restaurant final\\FinalRestaurante\\Sis457Restaurante\\WebRestaurante\\WebRestaurante.csproj": {
+    "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\WebRestaurante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sis 457 Informatica\\proyecto restaurant final\\FinalRestaurante\\Sis457Restaurante\\WebRestaurante\\WebRestaurante.csproj",
+        "projectUniqueName": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\WebRestaurante.csproj",
         "projectName": "WebRestaurante",
-        "projectPath": "C:\\Sis 457 Informatica\\proyecto restaurant final\\FinalRestaurante\\Sis457Restaurante\\WebRestaurante\\WebRestaurante.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Sis 457 Informatica\\proyecto restaurant final\\FinalRestaurante\\Sis457Restaurante\\WebRestaurante\\obj\\",
+        "projectPath": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\WebRestaurante.csproj",
+        "packagesPath": "C:\\Users\\paola\\.nuget\\packages\\",
+        "outputPath": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Visual Studio\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\paola\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
