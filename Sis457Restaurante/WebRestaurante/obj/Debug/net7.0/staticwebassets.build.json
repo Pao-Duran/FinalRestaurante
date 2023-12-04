@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kTXR3Zvp2f3f7Kz1HaZaORyYBtCApBOg5YFkEZrdEm4=",
+  "Hash": "DcpiQUMwPXzYf0F7qfbouQyHOKzSBzobwaO7WX3lQ+M=",
   "Source": "WebRestaurante",
   "BasePath": "_content/WebRestaurante",
   "Mode": "Default",
@@ -2922,6 +2922,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\menu-8.jpg"
+    },
+    {
+      "Identity": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\portadaCheffs.jpeg",
+      "SourceId": "WebRestaurante",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\",
+      "BasePath": "_content/WebRestaurante",
+      "RelativePath": "img/portadaCheffs.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\portadaCheffs.jpeg"
     },
     {
       "Identity": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\t1.jpeg",
