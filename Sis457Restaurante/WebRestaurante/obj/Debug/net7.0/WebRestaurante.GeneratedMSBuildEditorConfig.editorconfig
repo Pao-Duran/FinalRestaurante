@@ -42,6 +42,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Comidas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWRhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Comidas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWRhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Comidas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWRhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Comidas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWRhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Comidas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWRhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Empleados/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -62,12 +82,52 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Facturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Facturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Facturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Facturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Facturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Reservas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Reservas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Reservas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Reservas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Reservas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/WEB-RESTAURANTE/Final_Restaurante/Sis457Restaurante/WebRestaurante/Views/Shared/Error.cshtml]

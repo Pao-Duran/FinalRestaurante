@@ -64,6 +64,20 @@
     <Property Name="fechaRegistro" Type="datetime" Nullable="false" />
     <Property Name="estado" Type="smallint" Nullable="false" />
   </EntityType>
+  <EntityType Name="Reserva">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="cedulaIdentidad" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="fechaReserva" Type="date" Nullable="false" />
+    <Property Name="numPersonas" Type="int" Nullable="false" />
+    <Property Name="solicitud" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="usuarioRegistro" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="fechaRegistro" Type="datetime" Nullable="false" />
+    <Property Name="estado" Type="smallint" Nullable="false" />
+  </EntityType>
   <EntityType Name="Usuarios">
     <Key>
       <PropertyRef Name="id" />
@@ -172,6 +186,7 @@
     <EntitySet Name="Comida" EntityType="Self.Comida" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Empleado" EntityType="Self.Empleado" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Factura" EntityType="Self.Factura" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Reserva" EntityType="Self.Reserva" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Usuarios" EntityType="Self.Usuarios" Schema="dbo" store:Type="Tables" />
     <AssociationSet Name="fk_Factura_Bebida" Association="Self.fk_Factura_Bebida">
       <End Role="Bebida" EntitySet="Bebida" />

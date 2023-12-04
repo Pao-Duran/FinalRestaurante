@@ -25,13 +25,17 @@ public partial class LabRestauranteMpContext : DbContext
 
     public virtual DbSet<Factura> Facturas { get; set; }
 
+    public virtual DbSet<Factura1> Facturas1 { get; set; }
+
+    public virtual DbSet<Reserva> Reservas { get; set; }
+
     public virtual DbSet<Usuario> Usuarios { get; set; }
 
     public virtual DbSet<Usuario1> Usuarios1 { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=LabRestauranteMP;User ID=usrrestaurantemp;Password=123456");
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+        => optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=LabRestauranteMP;\nUser ID=usrrestaurantemp;Password=123456");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -216,6 +220,76 @@ public partial class LabRestauranteMpContext : DbContext
                 .HasForeignKey(d => d.IdEmpleado)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("fk_Factura_Empleado");
+        });
+
+        modelBuilder.Entity<Factura1>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Facturas__3213E83FC80AC23C");
+
+            entity.ToTable("Facturas");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.IdBebida).HasColumnName("idBebida");
+            entity.Property(e => e.IdComida).HasColumnName("idComida");
+            entity.Property(e => e.NombreCliente).HasColumnName("nombreCliente");
+            entity.Property(e => e.NombreEmpleado).HasColumnName("nombreEmpleado");
+
+            entity.HasOne(d => d.IdBebidaNavigation).WithMany(p => p.Factura1s)
+                .HasForeignKey(d => d.IdBebida)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("fk_Facturas_Bebida");
+
+            entity.HasOne(d => d.IdComidaNavigation).WithMany(p => p.Factura1s)
+                .HasForeignKey(d => d.IdComida)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("fk_Facturas_Comida");
+
+            entity.HasOne(d => d.NombreClienteNavigation).WithMany(p => p.Factura1s)
+                .HasForeignKey(d => d.NombreCliente)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("fk_Facturas_Cliente");
+
+            entity.HasOne(d => d.NombreEmpleadoNavigation).WithMany(p => p.Factura1s)
+                .HasForeignKey(d => d.NombreEmpleado)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("fk_Facturas_Empleado");
+        });
+
+        modelBuilder.Entity<Reserva>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Reserva__3213E83F83E13722");
+
+            entity.ToTable("Reserva");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.CedulaIdentidad)
+                .HasMaxLength(10)
+                .IsUnicode(false)
+                .HasColumnName("cedulaIdentidad");
+            entity.Property(e => e.Estado)
+                .HasDefaultValueSql("((1))")
+                .HasColumnName("estado");
+            entity.Property(e => e.FechaRegistro)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("fechaRegistro");
+            entity.Property(e => e.FechaReserva)
+                .HasColumnType("date")
+                .HasColumnName("fechaReserva");
+            entity.Property(e => e.Nombre)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("nombre");
+            entity.Property(e => e.NumPersonas).HasColumnName("numPersonas");
+            entity.Property(e => e.Solicitud)
+                .HasMaxLength(500)
+                .IsUnicode(false)
+                .HasColumnName("solicitud");
+            entity.Property(e => e.UsuarioRegistro)
+                .HasMaxLength(20)
+                .IsUnicode(false)
+                .HasDefaultValueSql("(suser_name())")
+                .HasColumnName("usuarioRegistro");
         });
 
         modelBuilder.Entity<Usuario>(entity =>

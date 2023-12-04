@@ -46,3 +46,15 @@ E:\Restaurante-micaela\restaurante-WEB\Sis457Restaurante\CadRestaurante\obj\Debu
 E:\Restaurante-micaela\restaurante-WEB\Sis457Restaurante\CadRestaurante\obj\Debug\CadRestaurante.csproj.CopyComplete
 E:\Restaurante-micaela\restaurante-WEB\Sis457Restaurante\CadRestaurante\obj\Debug\CadRestaurante.dll
 E:\Restaurante-micaela\restaurante-WEB\Sis457Restaurante\CadRestaurante\obj\Debug\CadRestaurante.pdb
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\bin\Debug\CadRestaurante.dll.config
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\bin\Debug\CadRestaurante.dll
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\bin\Debug\CadRestaurante.pdb
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\bin\Debug\EntityFramework.dll
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\bin\Debug\EntityFramework.SqlServer.dll
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\bin\Debug\EntityFramework.xml
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\bin\Debug\EntityFramework.SqlServer.xml
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\obj\Debug\CadRestaurante.csproj.AssemblyReference.cache
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\obj\Debug\CadRestaurante.csproj.CoreCompileInputs.cache
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\obj\Debug\CadRestaurante.csproj.CopyComplete
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\obj\Debug\CadRestaurante.dll
+E:\WEB-RESTAURANTE\Final_Restaurante\Sis457Restaurante\CadRestaurante\obj\Debug\CadRestaurante.pdb

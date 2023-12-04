@@ -25,6 +25,8 @@ public partial class Empleado
 
     public short Estado { get; set; }
 
+    public virtual ICollection<Factura1> Factura1s { get; set; } = new List<Factura1>();
+
     public virtual ICollection<Factura> Facturas { get; set; } = new List<Factura>();
 
     public virtual ICollection<Usuario1> Usuario1s { get; set; } = new List<Usuario1>();

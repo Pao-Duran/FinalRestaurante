@@ -23,7 +23,7 @@ DROP TABLE Usuario;
 DROP TABLE Comida;
 DROP TABLE Factura;
 DROP TABLE Bebida;
-
+DROP TABLE Reserva;
 
 --CREACION DE TABLAS 
 
@@ -37,6 +37,15 @@ CREATE TABLE Usuarios (
 
 );
 
+CREATE TABLE Reserva (
+id INT PRIMARY KEY IDENTITY (1,1),
+nombre VARCHAR (100) NOT NULL,
+cedulaIdentidad VARCHAR (10) NOT NULL,
+fechaReserva DATE NOT NULL,
+numPersonas INT NOT NULL,
+solicitud VARCHAR(500) NOT NULL
+
+);
 
 CREATE TABLE Cliente (
 id INT PRIMARY KEY IDENTITY (1,1),
@@ -87,6 +96,11 @@ nombre VARCHAR (50) NOT NULL,
 precio DECIMAL NOT NULL,
 marca VARCHAR(50)
 );
+
+ALTER TABLE Reserva  ADD usuarioRegistro VARCHAR (20) NOT NULL DEFAULT SUSER_NAME();
+ALTER TABLE Reserva ADD fechaRegistro DATETIME NOT NULL DEFAULT GETDATE();
+ALTER TABLE Reserva ADD estado SMALLINT NOT NULL DEFAULT 1; -- -1: eliminacion logica, 0: inactivo, 1: activo
+
 
 ALTER TABLE Usuarios  ADD usuarioRegistro VARCHAR (20) NOT NULL DEFAULT SUSER_NAME();
 ALTER TABLE Usuarios ADD fechaRegistro DATETIME NOT NULL DEFAULT GETDATE();

@@ -16,6 +16,7 @@
         <AssociationConnector Association="LabRestauranteMPModel.fk_Factura_Empleado" />
         <EntityTypeShape EntityType="LabRestauranteMPModel.Usuarios" Width="1.5" PointX="5" PointY="11.25" />
         <AssociationConnector Association="LabRestauranteMPModel.fk_Usuarios_Empleado" />
+        <EntityTypeShape EntityType="LabRestauranteMPModel.Reserva" Width="1.5" PointX="6.375" PointY="5.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

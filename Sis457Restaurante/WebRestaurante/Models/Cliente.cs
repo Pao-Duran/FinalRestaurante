@@ -21,5 +21,7 @@ public partial class Cliente
 
     public short Estado { get; set; }
 
+    public virtual ICollection<Factura1> Factura1s { get; set; } = new List<Factura1>();
+
     public virtual ICollection<Factura> Facturas { get; set; } = new List<Factura>();
 }
