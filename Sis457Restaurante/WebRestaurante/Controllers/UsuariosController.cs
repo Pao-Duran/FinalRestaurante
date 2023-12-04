@@ -63,7 +63,7 @@ namespace WebRestaurante.Controllers
             if (!string.IsNullOrEmpty(usuario.Usuario1))
             {
                 usuario.Clave = Util.Encrypt("restauranteMP");
-                usuario.UsuarioRegistro = "rest123";
+                usuario.UsuarioRegistro = "Restaurante";
                 usuario.FechaRegistro = DateTime.Now;
                 usuario.Estado = 1;
                 _context.Add(usuario);

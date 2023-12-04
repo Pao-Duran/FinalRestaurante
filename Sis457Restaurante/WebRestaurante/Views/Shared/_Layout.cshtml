@@ -58,7 +58,8 @@
                         @*  <a class="nav-link scrollto" href="#reserva">Reservar</a> *@
                         @*  <a class="nav-link scrollto" href="#testimonial">Comentarios</a> *@
                         <a class="nav-link scrollto" href="#contact">Contact</a>
-
+                        @if (User.Identity?.IsAuthenticated == true)
+                        {
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Admin</a>
                             <div class="dropdown-menu rounded">
@@ -67,7 +68,7 @@
                                 <a asp-controller="Clientes" asp-action="Index" class="dropdown-item">Clientes</a>
                             </div>
                         </div>
-
+                        }
                     </div>
                 </div>
                 <div class="d-flex align-items-center justify-content-center ms-4 ">
