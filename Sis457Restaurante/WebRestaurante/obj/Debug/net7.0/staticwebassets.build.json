@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9qYHkCHC9X68bQ0EhbQXIj+vlyqQKq23Tc4iX5cUK3I=",
+  "Hash": "kTXR3Zvp2f3f7Kz1HaZaORyYBtCApBOg5YFkEZrdEm4=",
   "Source": "WebRestaurante",
   "BasePath": "_content/WebRestaurante",
   "Mode": "Default",
@@ -2599,6 +2599,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\hero.png"
+    },
+    {
+      "Identity": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\La Cuchara Brava.png",
+      "SourceId": "WebRestaurante",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\",
+      "BasePath": "_content/WebRestaurante",
+      "RelativePath": "img/La Cuchara Brava.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\La Cuchara Brava.png"
     },
     {
       "Identity": "E:\\WEB-RESTAURANTE\\Final_Restaurante\\Sis457Restaurante\\WebRestaurante\\wwwroot\\img\\menu1.jpeg",
