@@ -54,10 +54,11 @@
                         <a class="nav-link scrollto" href="#servicio">Servicio</a>
 
                         <a class="nav-link scrollto" href="#menu">Menu</a>
-                        <a class="nav-link scrollto" href="#Team">Team</a>
+                        <a class="nav-link scrollto" href="#Team">Equipo</a>
                         @*  <a class="nav-link scrollto" href="#reserva">Reservar</a> *@
                         @*  <a class="nav-link scrollto" href="#testimonial">Comentarios</a> *@
-                        <a class="nav-link scrollto" href="#contact">Contact</a>
+                        <a class="nav-link scrollto" href="#contact">Contacto</a>
+
                         @if (User.Identity?.IsAuthenticated == true)
                         {
                         <div class="nav-item dropdown">
@@ -67,6 +68,7 @@
                                 <a asp-controller="Usuarios" asp-action="Index" class="dropdown-item">Usuarios</a>
                                 <a asp-controller="Clientes" asp-action="Index" class="dropdown-item">Clientes</a>
                                 <a asp-controller="Comidas" asp-action="Index" class="dropdown-item">Comidas</a>
+                                <a asp-controller="Reservas" asp-action="Index" class="dropdown-item">Reservas</a>
                             </div>
                         </div>
                         }
@@ -86,9 +88,20 @@
 
             <div class="container-xxl py-5 bg-dark hero-header mb-5">
                 <div class="container my-5 py-5">
-                    
+                    <div class="row align-items-center g-5">
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <h1 class="display-3 text-white animated slideInLeft"><br>Cuchara Brava...!!</h1>
+                            <p class="text-white animated slideInLeft mb-4 pb-2">Espacio reservado para unir personas queridas y compartir una buena comida</p>
+                            
+                        </div>
+                        <div class="col-lg-6 text-center text-lg-end overflow-hidden">
+                            <img class="img-fluid" src="img/hero.png" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
+        </div>
+        <!-- Navbar & Hero End -->
         </div>
     </div>
     <!-- Navbar & Hero End -->

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +10,7 @@ using WebRestaurante.Models;
 
 namespace WebRestaurante.Controllers
 {
+    [Authorize]
     public class ReservasController : Controller
     {
         private readonly LabRestauranteMpContext _context;
@@ -57,8 +59,11 @@ namespace WebRestaurante.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nombre,CedulaIdentidad,FechaReserva,NumPersonas,Solicitud,UsuarioRegistro,FechaRegistro,Estado")] Reserva reserva)
         {
-            if (ModelState.IsValid)
+            if (!string.IsNullOrEmpty(reserva.Nombre))
             {
+                reserva.UsuarioRegistro = "RestauranteMP";
+                reserva.FechaRegistro = DateTime.Now;
+                reserva.Estado = 1;
                 _context.Add(reserva);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
